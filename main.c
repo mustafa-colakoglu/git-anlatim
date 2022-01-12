@@ -1,3 +1,3 @@
 ilk kod
-ikinci kod
+ikinci kod ( satır değişiklikliği )
 üçüncü kod
