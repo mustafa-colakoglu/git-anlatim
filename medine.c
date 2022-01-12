@@ -1,0 +1,1 @@
+medinenin yaptığı değişik hareketler
